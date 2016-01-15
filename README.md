@@ -12,3 +12,7 @@ Prints out the Notes for a specific scale.
 
     $ scale F mixolydian
     F mixolydian scale: F G A A# C D D# F
+
+## Installation
+
+    go install github.com/mhutter/scale
