@@ -15,4 +15,4 @@ Prints out the Notes for a specific scale.
 
 ## Installation
 
-    go install github.com/mhutter/scale
+    go get -u github.com/mhutter/scale
